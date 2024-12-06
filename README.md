@@ -48,11 +48,10 @@ An AI-powered military surveillance system using YOLOv8 for real-time weapon and
 
 ---
 
-## Future Enhancements
+## YOLOv8 model architecture
 
-1. Integration with drone-based surveillance systems for aerial monitoring.
-2. Multi-camera support for wider area coverage.
-3. Advanced threat prioritization algorithms for enhanced decision-making.
+![Detailed-illustration-of-YOLOv8-model-architecture-The-Backbone-Neck-and-Head-are-the](https://github.com/user-attachments/assets/4e32ef46-b855-47f6-8633-029b8ca9d29e)
+
 
 ---
 
@@ -114,6 +113,7 @@ This image showcases the system's real-time detection interface. It identifies a
    - If a threat (weapon or intruder) is detected:
      - An audio warning is played.
      - A WhatsApp alert with an image and location is sent to predefined contacts.
+![Screenshot 2024-12-06 151613](https://github.com/user-attachments/assets/327070fb-d3f4-475b-b179-e09185348780)
 
 3. **Logging**:
    - Events are logged into Google Sheets with:
