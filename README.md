@@ -65,7 +65,7 @@ The confusion matrix evaluates the detection performance across all trained clas
    - Misclassifications, if any, for further tuning.
 
 ### 2. F1-Confidence Curve
-![Uploading F1_curve.png…]()
+![F1_curve](https://github.com/user-attachments/assets/93cad5e6-2ab3-493d-a6f2-586f3e27d5dc)
 This plot shows the relationship between confidence thresholds and F1 scores for all classes. It helps in understanding:
    - The optimal confidence threshold for reliable predictions.
    - The variability in precision and recall for different classes.
@@ -95,7 +95,7 @@ This image showcases the system's real-time detection interface. It identifies a
 ### 6. Google Sheets Logging
 ![Screenshot 2024-12-06 125646](https://github.com/user-attachments/assets/13009676-4138-4cd8-b551-9000123ae9db)
    - The Google Sheet logs every detection event with the following details:
-     - **Detected Name**: Specifies the detected object, e.g., "Commander," "Intruder," or a weapon type.
+     - **Detected Name**: Specifies the detected object, e.g., "Commander" , "Intruder".
      - **Date and Time**: Timestamp of the detection event.
      - **Captured Image**: A snapshot of the detected object or person.
      - **Live Location Link**: A clickable link to track the detection site in real time.
