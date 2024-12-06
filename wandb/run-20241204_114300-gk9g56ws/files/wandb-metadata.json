@@ -1,0 +1,34 @@
+{
+  "os": "Windows-10-10.0.22631-SP0",
+  "python": "3.11.2",
+  "startedAt": "2024-12-04T06:13:00.355181Z",
+  "args": [
+    "task=detect",
+    "mode=train",
+    "model=yolov8n.pt",
+    "data=D:/Software Projects/Weapons Detection/data.yaml",
+    "epochs=50",
+    "imgsz=640"
+  ],
+  "program": "-m __main__",
+  "email": "ybbhaskar19@gmail.com",
+  "root": "D:\\Software Projects\\Weapons Detection",
+  "host": "YASH",
+  "username": "ybbha",
+  "executable": "C:\\Users\\ybbha\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+  "cpu_count": 6,
+  "cpu_count_logical": 12,
+  "disk": {
+    "/": {
+      "total": "71449042944",
+      "used": "40325222400"
+    }
+  },
+  "memory": {
+    "total": "14877265920"
+  },
+  "cpu": {
+    "count": 6,
+    "countLogical": 12
+  }
+}
