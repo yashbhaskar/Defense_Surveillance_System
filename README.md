@@ -2,6 +2,9 @@
 An AI-powered military surveillance system using YOLOv8 for real-time weapon and intruder detection. Features include instant alerts, Google Cloud logging, and face recognition for authorized personnel. Designed for 24/7 monitoring in high-security zones, enhancing threat detection and response.
 
 ---
+## Military Surveillance System: AI-Powered Weapon & Intruder Detection Demo Video
+https://github.com/user-attachments/assets/36838851-7758-4a58-9901-78efe9eebfe2
+---
 
 ## Key Features
 
