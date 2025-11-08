@@ -117,7 +117,7 @@ This image showcases the system's real-time detection interface. It identifies a
      - An audio warning is played.
      - A WhatsApp alert with an image and location is sent to predefined contacts.
 
-![Screenshot 2024-12-06 125646]("https://github.com/user-attachments/assets/db910a98-2d25-4601-90e2-e7a35adb8a74")
+![Screenshot 2024-12-06 125646](https://github.com/user-attachments/assets/db910a98-2d25-4601-90e2-e7a35adb8a74)
 
 
 
