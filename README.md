@@ -116,7 +116,8 @@ This image showcases the system's real-time detection interface. It identifies a
    - If a threat (weapon or intruder) is detected:
      - An audio warning is played.
      - A WhatsApp alert with an image and location is sent to predefined contacts.
-<img width="1846" height="1052" alt="Untitled design (3)" src="https://github.com/user-attachments/assets/d7df5e53-cab5-457c-a5af-20923444a751" />
+<img width="1846" height="1052" alt="msg" src="https://github.com/user-attachments/assets/86e90b2e-9801-4fb2-983b-ddb006c619aa" />
+
 
 
 3. **Logging**:
