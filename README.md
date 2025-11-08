@@ -118,6 +118,8 @@ This image showcases the system's real-time detection interface. It identifies a
      - A WhatsApp alert with an image and location is sent to predefined contacts.
 <img width="1846" height="1052" alt="msg" src="https://github.com/user-attachments/assets/86e90b2e-9801-4fb2-983b-ddb006c619aa" />
 
+<img width="1846" height="1052" alt="Untitled design (3)" src="https://github.com/user-attachments/assets/db910a98-2d25-4601-90e2-e7a35adb8a74" />
+
 
 
 3. **Logging**:
